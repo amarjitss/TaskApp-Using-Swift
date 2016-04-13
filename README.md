@@ -1,10 +1,9 @@
 # TaskApp-Using-Swift
 
-//UITableView               //StroyBoard          
-//UITableViewDelegate       //Struct
-//UITableViewDataSource     //Tabbed Application
-//UITableViewCell           //UILabels
-//UIButtons                 //UITextField
+//UITableView               //StroyBoard                //Struct
+//UITableViewDelegate       //UITableViewDataSource     //Tabbed Application
+//UITableViewCell           //UILabels                  //UIButtons 
+//UITextField
 
 Using the Swift language in XCode and Tabbed Application template, this simple app let's you:
 Add a task
